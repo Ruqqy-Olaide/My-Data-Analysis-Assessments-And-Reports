@@ -7,9 +7,9 @@ Bike Purchase Analysis: The Influence of Factors such as Income, Gender, and Mar
 
 •	Objective: The purpose of this analysis is to explore how various demographic factors such as income, gender, and marital status influence the decision to purchase a bike. The goal is to identify patterns in the data that could inform marketing and business strategies for bike sales.
 
-•	Context: In the context of this analysis, we are investigating a dataset that includes information on individuals’ demographic factors. 
+•	Context: In the context of this analysis, we are investigating a dataset that includes information on individuals’ demographic factors. This is carried out using Python for the analysis. 
 
-•	Data Sources: The dataset used for this analysis was obtained from an Excel file which contains several demographic columns such as Marital Status, Gender, and Income, among others.
+•	Data Sources: The dataset used for this analysis was obtained from an Excel file, on Kaggle, a database platform and it contains several demographic columns such as Marital Status, Gender, and Income among others.
 
 3. Data Understanding:
 
@@ -19,6 +19,7 @@ Bike Purchase Analysis: The Influence of Factors such as Income, Gender, and Mar
 -	Gender: Indicates whether the person is male or female.
 -	Income: Shows the annual income of the person.
 -	Purchased Bike: Shows whether the person has purchased a bike (Yes/No) etc.
+  
 The dataset was examined for duplicate values, which were found and removed. Several columns, such as marital status and gender, were cleaned to replace abbreviations with full text (e.g., "M" with "Married" and "S" with "Single"). The income column was also rounded to 0 decimal places for consistency.
 
 •	Exploratory Data Analysis (EDA):
