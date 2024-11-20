@@ -1,7 +1,6 @@
 # Bike-Purchase-Analysis-Report
 
-1. Title
-Bike Purchase Analysis: The Influence of Factors such as Income, Gender, and Marital Status.
+1. Title: Bike Purchase Analysis: The Influence of Factors such as Income, Gender, and Marital Status.
 
 2. Introduction:
 
